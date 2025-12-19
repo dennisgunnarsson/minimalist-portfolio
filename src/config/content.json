@@ -2,121 +2,73 @@
   "nav": {
     "name": "DENIT",
     "menu": [
-      {
-        "text": "Home",
-        "link": "#home"
-      },
-      {
-        "text": "About",
-        "link": "#about"
-      },
-      {
-        "text": "Skills",
-        "link": "#skills"
-      },
-      {
-        "text": "Experience",
-        "link": "#experience"
-      },
-      {
-        "text": "Projects",
-        "link": "#projects"
-      },
-      {
-        "text": "Contact",
-        "link": "#contact"
-      }
+      { "text": "Home", "link": "#home" },
+      { "text": "About", "link": "#about" },
+      { "text": "Contact", "link": "#contact" }
     ]
   },
+
   "hero": {
     "greeting": "DENIT",
-    "name": "Tekniskt spår i rörelse",
+    "name": "Teknik i rörelse",
     "title": "Om Denit",
     "description": "Efter många år inom IT och stöd kliver jag nu in i automation och industriell teknik. Den här sidan samlar lärande, riktning och pågående utveckling – utan anspråk på färdiga svar.",
     "image": "/images/avatar.png",
-    "resume": "https://technical-resume.edgeone.app/"
+    "resume": ""
   },
+
   "about": {
     "title": "Inriktning",
     "description": "Efter många år inom IT och stöd arbetar jag nu med att ta steget in i automation och industriell teknik. Den här ytan används för att samla lärande, reflektioner och praktiska erfarenheter längs vägen.",
     "image": "/images/avatar.png"
   },
-          {
-            "name": "Matplotlib",
-            "image": "/images/matplot.png"
-          },
-          {
-            "name": "Seaborn",
-            "image": "/images/seaborn.png"
-          }
-        ]
-      },
-          {
-            "name": "VS Code",
-            "image": "/images/vscode.jpg"
-          },
-          {
-            "name": "Jupyter",
-            "image": "/images/jupyter.png"
-          },
-          {
-            "name": "Figma",
-            "image": "/images/figma.png"
-          },
-          {
-            "name": "Canva",
-            "image": "/images/canva.jpg"
-          }
-        ]
-      }
-    ]
+
+  "skills": {
+    "title": "",
+    "categories": []
   },
-  "Inriktning": {
-    "title": "Inriktning",
-    "timeline": [
-      {
+
+  "experience": {
+    "title": "",
+    "timeline": []
   },
-  "Kontakt": {
-    "title": "Kontakta mig",
+
+  "projects": {
+    "title": "",
+    "items": []
+  },
+
+  "contact": {
+    "title": "Kontakt",
     "description": "Den här sidan är under uppbyggnad. Kontakt sker tills vidare via etablerade kanaler.",
     "emailjs": {
-      "service_id": "YOUR_SERVICE_ID",
-      "template_id": "YOUR_TEMPLATE_ID",
-      "public_key": "YOUR_PUBLIC_KEY",
-      "to_email": "your-email@example.com"
+      "service_id": "",
+      "template_id": "",
+      "public_key": "",
+      "to_email": ""
     },
     "info": {
-      "email": "your.email@example.com",
-      "phone": "+86 188 1367 6461",
-      "location": "Your Location"
+      "email": "",
+      "phone": "",
+      "location": ""
     },
     "social": [
       {
         "name": "GitHub",
         "icon": "github",
-        "link": "https://github.com/TencentEdgeOne"
+        "link": "https://github.com/dennisgunnarsson"
       },
       {
         "name": "LinkedIn",
         "icon": "linkedin",
-        "link": "https://www.linkedin.com/company/tencentedgeone"
-      },
-      {
-        "name": "Medium",
-        "icon": "medium",
-        "link": "https://medium.com/tencent-cloud/welcome-to-tencent-edgeone-e4eab9100ebc"
-      },
-      {
-        "name": "Instagram",
-        "icon": "instagram",
-        "link": "https://x.com/TencentCloudEO"
+        "link": "https://www.linkedin.com"
       }
     ],
     "form": {
-      "name": "Name",
-      "email": "Email",
-      "message": "Message",
-      "submit": "Send Message"
+      "name": "",
+      "email": "",
+      "message": "",
+      "submit": ""
     }
   }
-} 
+}
