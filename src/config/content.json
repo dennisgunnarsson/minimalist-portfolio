@@ -1,6 +1,6 @@
 {
   "nav": {
-    "name": "Your Name",
+    "name": "DENIT",
     "menu": [
       {
         "text": "Home",
@@ -29,10 +29,10 @@
     ]
   },
   "hero": {
-    "greeting": "Hi",
-    "name": "Your Name",
-    "title": "Full Stack Developer",
-    "description": "I build exceptional and accessible digital experiences for the web.",
+    "greeting": "Denit",
+    "name": "Ett tekniskt spår i rörelse",
+    "title": "Om Denit",
+    "description": "Efter många år inom IT och stöd kliver jag nu in i automation och industriell teknik. Den här sidan samlar lärande, riktning och pågående utveckling – utan anspråk på färdiga svar.",
     "image": "/images/avatar.png",
     "resume": "https://technical-resume.edgeone.app/"
   },
@@ -43,7 +43,7 @@
     "image": "/images/avatar.png"
   },
   "skills": {
-    "title": "My Skills",
+    "title": "",
     "categories": [
       {
         "title": "Frontend",
@@ -96,7 +96,7 @@
         ]
       },
       {
-        "title": "Data Science",
+        "title": "",
         "skills": [
           {
             "name": "Python",
